@@ -8,7 +8,7 @@ class Main {
 ```
 ## Who am I?
 I'm Inês Marçal, a student of Informatics Engineering at University of Coimbra<br>
-Haved finished my Bachelor's Degree in Informatics Engineering.
+Haved finished my Bachelor's Degree in Informatics Engineering.<br>
 I'm now taking a Master Degree in Cybersecurity and working in other projects.
 
 ## More about me
