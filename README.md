@@ -12,7 +12,7 @@ Haved finished my Bachelor's Degree in Informatics Engineering, i'm now taking a
 
 ## More about me
 * Nationality: portuguese
-* Age: 21 years 
+* Age: 23 years 
 * From: Sertã, Portugal
 * Socials:
 	+ [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines--marcal/)
